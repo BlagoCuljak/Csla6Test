@@ -1,0 +1,44 @@
+{
+  "version": 2,
+  "dgSpecHash": "S5RMA6bbSnOIG5SDPCxfcktYBQUs2ntpehkZKTWDyt0Sc+ah4T/xVbj2g7uGRwdSQgcGP3DtcmE9aQAMYQ7rbQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\blago.culjak\\Source\\Repos\\Csla6Test\\ProjectTracker.Ui.Xamarin\\ProjectTracker.Ui.Xamarin.iOS\\ProjectTracker.Ui.Xamarin.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\csla\\6.2.2\\csla.6.2.2.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\csla.xamarin.forms\\5.4.0-r20113004\\csla.xamarin.forms.5.4.0-r20113004.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.extensions.configuration.binder\\5.0.0\\microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\xamarin.forms\\4.8.0.1687\\xamarin.forms.4.8.0.1687.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "ProjectTracker.Ui.Xamarin.iOS depends on Csla.Xamarin.Forms (>= 5.4.0-R20111805) but Csla.Xamarin.Forms 5.4.0-R20111805 was not found. An approximate best match of Csla.Xamarin.Forms 5.4.0-R20113004 was resolved.",
+      "libraryId": "Csla.Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    },
+    {
+      "code": "NU1107",
+      "level": "Error",
+      "message": "Version conflict detected for Csla. Install/reference Csla 6.2.2 directly to project ProjectTracker.Ui.Xamarin.iOS to resolve this issue. \r\n ProjectTracker.Ui.Xamarin.iOS -> ProjectTracker.Ui.Xamarin -> ProjectTracker.BusinessLibrary -> Csla (>= 6.2.2) \r\n ProjectTracker.Ui.Xamarin.iOS -> Csla.Xamarin.Forms 5.4.0-R20113004 -> Csla (= 5.4.0-R20113004).",
+      "libraryId": "Csla",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0"
+      ]
+    }
+  ]
+}

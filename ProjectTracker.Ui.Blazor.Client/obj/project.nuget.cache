@@ -1,0 +1,81 @@
+{
+  "version": 2,
+  "dgSpecHash": "h0tDiQ9zGrTD0wQiOij95Vj9mo9VJWPDhcExV7EQVmn3FFtN27hRwHS94eujYbtsm9P5TvJybTS6mCJ/umPFXw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\blago.culjak\\Source\\Repos\\Csla6Test\\ProjectTracker.Ui.Blazor.Client\\ProjectTracker.Ui.Blazor.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\csla\\6.2.2\\csla.6.2.2.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\csla.blazor\\5.4.0-r20113004\\csla.blazor.5.4.0-r20113004.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\csla.blazor.webassembly\\5.4.0-r20113004\\csla.blazor.webassembly.5.4.0-r20113004.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.9\\microsoft.aspnetcore.authorization.3.1.9.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.aspnetcore.blazor.httpclient\\3.2.0-preview3.20168.3\\microsoft.aspnetcore.blazor.httpclient.3.2.0-preview3.20168.3.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.9\\microsoft.aspnetcore.components.3.1.9.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\3.1.9\\microsoft.aspnetcore.components.analyzers.3.1.9.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\3.1.9\\microsoft.aspnetcore.components.authorization.3.1.9.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\3.1.9\\microsoft.aspnetcore.components.forms.3.1.9.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.aspnetcore.components.web\\3.1.9\\microsoft.aspnetcore.components.web.3.1.9.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\3.2.1\\microsoft.aspnetcore.components.webassembly.3.2.1.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.build\\3.2.0\\microsoft.aspnetcore.components.webassembly.build.3.2.0.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.devserver\\3.2.0\\microsoft.aspnetcore.components.webassembly.devserver.3.2.0.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.httphandler\\3.2.0\\microsoft.aspnetcore.components.webassembly.httphandler.3.2.0.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0\\microsoft.aspnetcore.components.webassembly.runtime.3.2.0.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.aspnetcore.metadata\\3.1.9\\microsoft.aspnetcore.metadata.3.1.9.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.extensions.configuration.binder\\5.0.0\\microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.6\\microsoft.extensions.configuration.fileextensions.3.1.6.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.6\\microsoft.extensions.configuration.json.3.1.6.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.6\\microsoft.extensions.fileproviders.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.6\\microsoft.extensions.fileproviders.physical.3.1.6.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.6\\microsoft.extensions.filesystemglobbing.3.1.6.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.extensions.logging\\3.1.6\\microsoft.extensions.logging.3.1.6.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.9\\microsoft.extensions.logging.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.extensions.options\\3.1.9\\microsoft.extensions.options.3.1.9.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.jsinterop\\3.1.9\\microsoft.jsinterop.3.1.9.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.jsinterop.webassembly\\3.2.1\\microsoft.jsinterop.webassembly.3.2.1.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\system.net.http.json\\3.2.0-preview5.20210.3\\system.net.http.json.3.2.0-preview5.20210.3.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\system.text.encodings.web\\4.7.1\\system.text.encodings.web.4.7.1.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\blago.culjak\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "ProjectTracker.Ui.Blazor.Client depends on Csla.Blazor (>= 5.4.0-R20111805) but Csla.Blazor 5.4.0-R20111805 was not found. An approximate best match of Csla.Blazor 5.4.0-R20113004 was resolved.",
+      "libraryId": "Csla.Blazor",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "ProjectTracker.Ui.Blazor.Client depends on Csla.Blazor.WebAssembly (>= 5.4.0-R20111805) but Csla.Blazor.WebAssembly 5.4.0-R20111805 was not found. An approximate best match of Csla.Blazor.WebAssembly 5.4.0-R20113004 was resolved.",
+      "libraryId": "Csla.Blazor.WebAssembly",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1107",
+      "level": "Error",
+      "message": "Version conflict detected for Csla. Install/reference Csla 6.2.2 directly to project ProjectTracker.Ui.Blazor.Client to resolve this issue. \r\n ProjectTracker.Ui.Blazor.Client -> ProjectTracker.Ui.Blazor -> ProjectTracker.Dal -> Csla (>= 6.2.2) \r\n ProjectTracker.Ui.Blazor.Client -> Csla.Blazor 5.4.0-R20113004 -> Csla (= 5.4.0-R20113004).",
+      "libraryId": "Csla",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.1"
+      ]
+    }
+  ]
+}
