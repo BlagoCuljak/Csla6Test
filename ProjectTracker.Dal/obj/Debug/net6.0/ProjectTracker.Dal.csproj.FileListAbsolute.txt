@@ -1,0 +1,12 @@
+C:\Users\Miljenko.stipic\Source\Repos\ProjectTrackerCsla6\ProjectTracker.Dal\bin\Debug\net6.0\ProjectTracker.Dal.deps.json
+C:\Users\Miljenko.stipic\Source\Repos\ProjectTrackerCsla6\ProjectTracker.Dal\bin\Debug\net6.0\ProjectTracker.Dal.dll
+C:\Users\Miljenko.stipic\Source\Repos\ProjectTrackerCsla6\ProjectTracker.Dal\bin\Debug\net6.0\ProjectTracker.Dal.pdb
+C:\Users\Miljenko.stipic\Source\Repos\ProjectTrackerCsla6\ProjectTracker.Dal\obj\Debug\net6.0\ProjectTracker.Dal.csproj.AssemblyReference.cache
+C:\Users\Miljenko.stipic\Source\Repos\ProjectTrackerCsla6\ProjectTracker.Dal\obj\Debug\net6.0\ProjectTracker.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miljenko.stipic\Source\Repos\ProjectTrackerCsla6\ProjectTracker.Dal\obj\Debug\net6.0\ProjectTracker.Dal.AssemblyInfoInputs.cache
+C:\Users\Miljenko.stipic\Source\Repos\ProjectTrackerCsla6\ProjectTracker.Dal\obj\Debug\net6.0\ProjectTracker.Dal.AssemblyInfo.cs
+C:\Users\Miljenko.stipic\Source\Repos\ProjectTrackerCsla6\ProjectTracker.Dal\obj\Debug\net6.0\ProjectTracker.Dal.csproj.CoreCompileInputs.cache
+C:\Users\Miljenko.stipic\Source\Repos\ProjectTrackerCsla6\ProjectTracker.Dal\obj\Debug\net6.0\ProjectTracker.Dal.dll
+C:\Users\Miljenko.stipic\Source\Repos\ProjectTrackerCsla6\ProjectTracker.Dal\obj\Debug\net6.0\refint\ProjectTracker.Dal.dll
+C:\Users\Miljenko.stipic\Source\Repos\ProjectTrackerCsla6\ProjectTracker.Dal\obj\Debug\net6.0\ProjectTracker.Dal.pdb
+C:\Users\Miljenko.stipic\Source\Repos\ProjectTrackerCsla6\ProjectTracker.Dal\obj\Debug\net6.0\ref\ProjectTracker.Dal.dll

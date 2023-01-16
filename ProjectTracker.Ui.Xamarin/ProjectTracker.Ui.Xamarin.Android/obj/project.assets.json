@@ -3645,40 +3645,30 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\blago.culjak\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages": {},
+    "C:\\Users\\Miljenko.stipic\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages": {},
-    "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages": {},
     "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages": {},
-    "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\blago.culjak\\Source\\Repos\\Csla6Test\\ProjectTracker.Ui.Xamarin\\ProjectTracker.Ui.Xamarin.Android\\ProjectTracker.Ui.Xamarin.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Miljenko.stipic\\Source\\Repos\\ProjectTrackerCsla6\\ProjectTracker.Ui.Xamarin\\ProjectTracker.Ui.Xamarin.Android\\ProjectTracker.Ui.Xamarin.Android.csproj",
       "projectName": "ProjectTracker.Ui.Xamarin.Android",
-      "projectPath": "C:\\Users\\blago.culjak\\Source\\Repos\\Csla6Test\\ProjectTracker.Ui.Xamarin\\ProjectTracker.Ui.Xamarin.Android\\ProjectTracker.Ui.Xamarin.Android.csproj",
-      "packagesPath": "C:\\Users\\blago.culjak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\blago.culjak\\Source\\Repos\\Csla6Test\\ProjectTracker.Ui.Xamarin\\ProjectTracker.Ui.Xamarin.Android\\obj\\",
+      "projectPath": "C:\\Users\\Miljenko.stipic\\Source\\Repos\\ProjectTrackerCsla6\\ProjectTracker.Ui.Xamarin\\ProjectTracker.Ui.Xamarin.Android\\ProjectTracker.Ui.Xamarin.Android.csproj",
+      "packagesPath": "C:\\Users\\Miljenko.stipic\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Miljenko.stipic\\Source\\Repos\\ProjectTrackerCsla6\\ProjectTracker.Ui.Xamarin\\ProjectTracker.Ui.Xamarin.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
         "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
-        "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
         "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
-        "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\blago.culjak\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+        "C:\\Users\\Miljenko.stipic\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.1.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3686,22 +3676,17 @@
         "monoandroid90"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
-        "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
-        "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
-        "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
         "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.devexpress.com/Hq84CJeduGK32ho9n3ndu2JPdsHldFAfwQ82XdASJ7eSyqF8oe/api": {},
-        "https://nuget.devexpress.com/early-access/api": {}
+        "https://nuget.devexpress.com/Hq84CJeduGK32ho9n3ndu2JPdsHldFAfwQ82XdASJ7eSyqF8oe/api": {}
       },
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\blago.culjak\\Source\\Repos\\Csla6Test\\ProjectTracker.Ui.Xamarin\\ProjectTracker.Ui.Xamarin\\ProjectTracker.Ui.Xamarin.csproj": {
-              "projectPath": "C:\\Users\\blago.culjak\\Source\\Repos\\Csla6Test\\ProjectTracker.Ui.Xamarin\\ProjectTracker.Ui.Xamarin\\ProjectTracker.Ui.Xamarin.csproj"
+            "C:\\Users\\Miljenko.stipic\\Source\\Repos\\ProjectTrackerCsla6\\ProjectTracker.Ui.Xamarin\\ProjectTracker.Ui.Xamarin\\ProjectTracker.Ui.Xamarin.csproj": {
+              "projectPath": "C:\\Users\\Miljenko.stipic\\Source\\Repos\\ProjectTrackerCsla6\\ProjectTracker.Ui.Xamarin\\ProjectTracker.Ui.Xamarin\\ProjectTracker.Ui.Xamarin.csproj"
             }
           }
         }

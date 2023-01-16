@@ -1,21 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "S5RMA6bbSnOIG5SDPCxfcktYBQUs2ntpehkZKTWDyt0Sc+ah4T/xVbj2g7uGRwdSQgcGP3DtcmE9aQAMYQ7rbQ==",
+  "dgSpecHash": "Li0aIVPSwfzUBLcJsVS6FuuZaGtlj92BQNyIA+dVkAtDMh4uIpSi2wHXWb0P8I02KIhUd/oZYQ7U5nKhbS/U3w==",
   "success": false,
-  "projectFilePath": "C:\\Users\\blago.culjak\\Source\\Repos\\Csla6Test\\ProjectTracker.Ui.Xamarin\\ProjectTracker.Ui.Xamarin.iOS\\ProjectTracker.Ui.Xamarin.iOS.csproj",
+  "projectFilePath": "C:\\Users\\Miljenko.stipic\\Source\\Repos\\ProjectTrackerCsla6\\ProjectTracker.Ui.Xamarin\\ProjectTracker.Ui.Xamarin.iOS\\ProjectTracker.Ui.Xamarin.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\blago.culjak\\.nuget\\packages\\csla\\6.2.2\\csla.6.2.2.nupkg.sha512",
-    "C:\\Users\\blago.culjak\\.nuget\\packages\\csla.xamarin.forms\\5.4.0-r20113004\\csla.xamarin.forms.5.4.0-r20113004.nupkg.sha512",
-    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
-    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
-    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.extensions.configuration.binder\\5.0.0\\microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
-    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
-    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
-    "C:\\Users\\blago.culjak\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
-    "C:\\Users\\blago.culjak\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
-    "C:\\Users\\blago.culjak\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
-    "C:\\Users\\blago.culjak\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
-    "C:\\Users\\blago.culjak\\.nuget\\packages\\xamarin.forms\\4.8.0.1687\\xamarin.forms.4.8.0.1687.nupkg.sha512"
+    "C:\\Users\\Miljenko.stipic\\.nuget\\packages\\csla\\6.2.2\\csla.6.2.2.nupkg.sha512",
+    "C:\\Users\\Miljenko.stipic\\.nuget\\packages\\csla.xamarin.forms\\5.4.0-r20113004\\csla.xamarin.forms.5.4.0-r20113004.nupkg.sha512",
+    "C:\\Users\\Miljenko.stipic\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\Miljenko.stipic\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Miljenko.stipic\\.nuget\\packages\\microsoft.extensions.configuration.binder\\5.0.0\\microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
+    "C:\\Users\\Miljenko.stipic\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\Miljenko.stipic\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Miljenko.stipic\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\Miljenko.stipic\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Miljenko.stipic\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\Miljenko.stipic\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\Miljenko.stipic\\.nuget\\packages\\xamarin.forms\\4.8.0.1687\\xamarin.forms.4.8.0.1687.nupkg.sha512"
   ],
   "logs": [
     {

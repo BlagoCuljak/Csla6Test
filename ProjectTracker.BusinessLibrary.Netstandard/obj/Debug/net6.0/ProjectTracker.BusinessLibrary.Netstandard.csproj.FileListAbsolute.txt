@@ -1,0 +1,5 @@
+C:\Users\Miljenko.stipic\Source\Repos\ProjectTrackerCsla6\ProjectTracker.BusinessLibrary.Netstandard\obj\Debug\net6.0\ProjectTracker.BusinessLibrary.Netstandard.csproj.AssemblyReference.cache
+C:\Users\Miljenko.stipic\Source\Repos\ProjectTrackerCsla6\ProjectTracker.BusinessLibrary.Netstandard\obj\Debug\net6.0\ProjectTracker.BusinessLibrary.Netstandard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miljenko.stipic\Source\Repos\ProjectTrackerCsla6\ProjectTracker.BusinessLibrary.Netstandard\obj\Debug\net6.0\ProjectTracker.BusinessLibrary.Netstandard.AssemblyInfoInputs.cache
+C:\Users\Miljenko.stipic\Source\Repos\ProjectTrackerCsla6\ProjectTracker.BusinessLibrary.Netstandard\obj\Debug\net6.0\ProjectTracker.BusinessLibrary.Netstandard.AssemblyInfo.cs
+C:\Users\Miljenko.stipic\Source\Repos\ProjectTrackerCsla6\ProjectTracker.BusinessLibrary.Netstandard\obj\Debug\net6.0\ProjectTracker.BusinessLibrary.Netstandard.csproj.CoreCompileInputs.cache

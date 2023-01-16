@@ -12,57 +12,57 @@ namespace ProjectTracker.Ui.Blazor.Pages
     using System.Linq;
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
-#line 1 "C:\Users\blago.culjak\Source\Repos\Csla6Test\ProjectTracker.Ui.Blazor\_Imports.razor"
+#line 1 "C:\Users\Miljenko.stipic\Source\Repos\ProjectTrackerCsla6\ProjectTracker.Ui.Blazor\_Imports.razor"
 using System.Net.Http;
 
 #line default
 #line hidden
-#line 2 "C:\Users\blago.culjak\Source\Repos\Csla6Test\ProjectTracker.Ui.Blazor\_Imports.razor"
+#line 2 "C:\Users\Miljenko.stipic\Source\Repos\ProjectTrackerCsla6\ProjectTracker.Ui.Blazor\_Imports.razor"
 using Microsoft.AspNetCore.Authorization;
 
 #line default
 #line hidden
-#line 3 "C:\Users\blago.culjak\Source\Repos\Csla6Test\ProjectTracker.Ui.Blazor\_Imports.razor"
+#line 3 "C:\Users\Miljenko.stipic\Source\Repos\ProjectTrackerCsla6\ProjectTracker.Ui.Blazor\_Imports.razor"
 using Microsoft.AspNetCore.Components.Authorization;
 
 #line default
 #line hidden
-#line 4 "C:\Users\blago.culjak\Source\Repos\Csla6Test\ProjectTracker.Ui.Blazor\_Imports.razor"
+#line 4 "C:\Users\Miljenko.stipic\Source\Repos\ProjectTrackerCsla6\ProjectTracker.Ui.Blazor\_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
-#line 5 "C:\Users\blago.culjak\Source\Repos\Csla6Test\ProjectTracker.Ui.Blazor\_Imports.razor"
+#line 5 "C:\Users\Miljenko.stipic\Source\Repos\ProjectTrackerCsla6\ProjectTracker.Ui.Blazor\_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
-#line 6 "C:\Users\blago.culjak\Source\Repos\Csla6Test\ProjectTracker.Ui.Blazor\_Imports.razor"
+#line 6 "C:\Users\Miljenko.stipic\Source\Repos\ProjectTrackerCsla6\ProjectTracker.Ui.Blazor\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
-#line 7 "C:\Users\blago.culjak\Source\Repos\Csla6Test\ProjectTracker.Ui.Blazor\_Imports.razor"
+#line 7 "C:\Users\Miljenko.stipic\Source\Repos\ProjectTrackerCsla6\ProjectTracker.Ui.Blazor\_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
-#line 8 "C:\Users\blago.culjak\Source\Repos\Csla6Test\ProjectTracker.Ui.Blazor\_Imports.razor"
+#line 8 "C:\Users\Miljenko.stipic\Source\Repos\ProjectTrackerCsla6\ProjectTracker.Ui.Blazor\_Imports.razor"
 using ProjectTracker.Ui.Blazor;
 
 #line default
 #line hidden
-#line 9 "C:\Users\blago.culjak\Source\Repos\Csla6Test\ProjectTracker.Ui.Blazor\_Imports.razor"
+#line 9 "C:\Users\Miljenko.stipic\Source\Repos\ProjectTrackerCsla6\ProjectTracker.Ui.Blazor\_Imports.razor"
 using ProjectTracker.Ui.Blazor.Shared;
 
 #line default
 #line hidden
-#line 2 "C:\Users\blago.culjak\Source\Repos\Csla6Test\ProjectTracker.Ui.Blazor\Pages\Projects.razor"
+#line 2 "C:\Users\Miljenko.stipic\Source\Repos\ProjectTrackerCsla6\ProjectTracker.Ui.Blazor\Pages\Projects.razor"
 using Csla.Blazor;
 
 #line default
 #line hidden
-#line 3 "C:\Users\blago.culjak\Source\Repos\Csla6Test\ProjectTracker.Ui.Blazor\Pages\Projects.razor"
+#line 3 "C:\Users\Miljenko.stipic\Source\Repos\ProjectTrackerCsla6\ProjectTracker.Ui.Blazor\Pages\Projects.razor"
 using Csla.Rules;
 
 #line default
@@ -75,7 +75,7 @@ using Csla.Rules;
         {
         }
         #pragma warning restore 1998
-#line 56 "C:\Users\blago.culjak\Source\Repos\Csla6Test\ProjectTracker.Ui.Blazor\Pages\Projects.razor"
+#line 56 "C:\Users\Miljenko.stipic\Source\Repos\ProjectTrackerCsla6\ProjectTracker.Ui.Blazor\Pages\Projects.razor"
        
   private int itemSelectedForDeletion = -1;
 

@@ -15,6 +15,8 @@ namespace ProjectTracker.Library
     [Serializable()]
     public class RoleEditBindingList : BusinessBindingListBase<RoleEditBindingList, RoleEdit>
     {
+
+      
       /// <summary>
       /// Remove a role based on the role's
       /// id value.
@@ -61,9 +63,10 @@ namespace ProjectTracker.Library
           new Csla.Rules.CommonRules.IsInRole(Csla.Rules.AuthorizationActions.DeleteObject, Security.Roles.Administrator));
       }
 
-      public static async Task<RoleEditBindingList> GetRolesAsync()
+      public async Task<RoleEditBindingList> GetRolesAsync()
       {
-        return await DataPortal.FetchAsync<RoleEditBindingList>();
+            var portal = ApplicationContext.GetRequiredService<IDataPortal<RoleEditBindingList>>();
+            return await portal.FetchAsync();
       }
 
       public RoleEditBindingList()
@@ -79,9 +82,9 @@ namespace ProjectTracker.Library
         RoleList.InvalidateCache();
       }
 
-      public static RoleEditBindingList GetRoles()
-      {
-        return DataPortal.Fetch<RoleEditBindingList>();
+      public async Task<RoleEditBindingList> GetRoles()
+      {      
+        return await ApplicationContext.GetRequiredService<IDataPortal<RoleEditBindingList>>().FetchAsync();
       }
 
       protected override void OnDeserialized()
@@ -109,7 +112,10 @@ namespace ProjectTracker.Library
           List<ProjectTracker.Dal.RoleDto> list = null;
           list = dal.Fetch();
           foreach (var item in list)
-            Add(DataPortal.FetchChild<RoleEdit>(item));
+            {
+                var it = ApplicationContext.GetRequiredService<IChildDataPortal<RoleEdit>>().FetchChild(item);
+                Add(it);
+            }
         }
       }
 

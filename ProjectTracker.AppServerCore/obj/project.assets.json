@@ -1676,7 +1676,7 @@
       },
       "ProjectTracker.BusinessLibrary/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
+        "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Csla": "6.2.2",
           "ProjectTracker.Dal": "1.0.0"
@@ -1690,7 +1690,7 @@
       },
       "ProjectTracker.Dal/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
+        "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Csla": "6.2.2"
         },
@@ -1703,7 +1703,7 @@
       },
       "ProjectTracker.DalEfCore/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
+        "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "3.1.4",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.4",
@@ -1718,7 +1718,7 @@
       },
       "ProjectTracker.DalMock/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
+        "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Csla": "6.2.2",
           "ProjectTracker.Dal": "1.0.0"
@@ -5897,41 +5897,31 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\blago.culjak\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages": {},
+    "C:\\Users\\Miljenko.stipic\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages": {},
-    "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages": {},
     "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages": {},
-    "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\blago.culjak\\Source\\Repos\\Csla6Test\\ProjectTracker.AppServerCore\\ProjectTracker.AppServerCore.csproj",
+      "projectUniqueName": "C:\\Users\\Miljenko.stipic\\Source\\Repos\\ProjectTrackerCsla6\\ProjectTracker.AppServerCore\\ProjectTracker.AppServerCore.csproj",
       "projectName": "ProjectTracker.AppServerCore",
-      "projectPath": "C:\\Users\\blago.culjak\\Source\\Repos\\Csla6Test\\ProjectTracker.AppServerCore\\ProjectTracker.AppServerCore.csproj",
-      "packagesPath": "C:\\Users\\blago.culjak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\blago.culjak\\Source\\Repos\\Csla6Test\\ProjectTracker.AppServerCore\\obj\\",
+      "projectPath": "C:\\Users\\Miljenko.stipic\\Source\\Repos\\ProjectTrackerCsla6\\ProjectTracker.AppServerCore\\ProjectTracker.AppServerCore.csproj",
+      "packagesPath": "C:\\Users\\Miljenko.stipic\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Miljenko.stipic\\Source\\Repos\\ProjectTrackerCsla6\\ProjectTracker.AppServerCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
         "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
-        "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
         "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
-        "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\blago.culjak\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+        "C:\\Users\\Miljenko.stipic\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.1.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5939,33 +5929,28 @@
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
-        "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
-        "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
-        "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.devexpress.com/Hq84CJeduGK32ho9n3ndu2JPdsHldFAfwQ82XdASJ7eSyqF8oe/api": {},
-        "https://nuget.devexpress.com/early-access/api": {}
+        "https://nuget.devexpress.com/Hq84CJeduGK32ho9n3ndu2JPdsHldFAfwQ82XdASJ7eSyqF8oe/api": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\blago.culjak\\Source\\Repos\\Csla6Test\\ProjectTracker.BusinessLibrary.Netstandard\\ProjectTracker.BusinessLibrary.Netstandard.csproj": {
-              "projectPath": "C:\\Users\\blago.culjak\\Source\\Repos\\Csla6Test\\ProjectTracker.BusinessLibrary.Netstandard\\ProjectTracker.BusinessLibrary.Netstandard.csproj"
+            "C:\\Users\\Miljenko.stipic\\Source\\Repos\\ProjectTrackerCsla6\\ProjectTracker.BusinessLibrary.Netstandard\\ProjectTracker.BusinessLibrary.Netstandard.csproj": {
+              "projectPath": "C:\\Users\\Miljenko.stipic\\Source\\Repos\\ProjectTrackerCsla6\\ProjectTracker.BusinessLibrary.Netstandard\\ProjectTracker.BusinessLibrary.Netstandard.csproj"
             },
-            "C:\\Users\\blago.culjak\\Source\\Repos\\Csla6Test\\ProjectTracker.DalEfCore\\ProjectTracker.DalEfCore.csproj": {
-              "projectPath": "C:\\Users\\blago.culjak\\Source\\Repos\\Csla6Test\\ProjectTracker.DalEfCore\\ProjectTracker.DalEfCore.csproj"
+            "C:\\Users\\Miljenko.stipic\\Source\\Repos\\ProjectTrackerCsla6\\ProjectTracker.DalEfCore\\ProjectTracker.DalEfCore.csproj": {
+              "projectPath": "C:\\Users\\Miljenko.stipic\\Source\\Repos\\ProjectTrackerCsla6\\ProjectTracker.DalEfCore\\ProjectTracker.DalEfCore.csproj"
             },
-            "C:\\Users\\blago.culjak\\Source\\Repos\\Csla6Test\\ProjectTracker.DalMock\\ProjectTracker.DalMock.csproj": {
-              "projectPath": "C:\\Users\\blago.culjak\\Source\\Repos\\Csla6Test\\ProjectTracker.DalMock\\ProjectTracker.DalMock.csproj"
+            "C:\\Users\\Miljenko.stipic\\Source\\Repos\\ProjectTrackerCsla6\\ProjectTracker.DalMock\\ProjectTracker.DalMock.csproj": {
+              "projectPath": "C:\\Users\\Miljenko.stipic\\Source\\Repos\\ProjectTrackerCsla6\\ProjectTracker.DalMock\\ProjectTracker.DalMock.csproj"
             },
-            "C:\\Users\\blago.culjak\\Source\\Repos\\Csla6Test\\ProjectTracker.Dal\\ProjectTracker.Dal.csproj": {
-              "projectPath": "C:\\Users\\blago.culjak\\Source\\Repos\\Csla6Test\\ProjectTracker.Dal\\ProjectTracker.Dal.csproj"
+            "C:\\Users\\Miljenko.stipic\\Source\\Repos\\ProjectTrackerCsla6\\ProjectTracker.Dal\\ProjectTracker.Dal.csproj": {
+              "projectPath": "C:\\Users\\Miljenko.stipic\\Source\\Repos\\ProjectTrackerCsla6\\ProjectTracker.Dal\\ProjectTracker.Dal.csproj"
             }
           }
         }
